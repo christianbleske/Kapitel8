@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="13F34" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Kontakte" representedClassName="CoreDataBspSW.Kontakte" syncable="YES">
+        <attribute name="nachname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ort" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="plz" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="strasse" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vorname" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Kontakte" positionX="-63" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>
